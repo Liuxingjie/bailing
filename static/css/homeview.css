@@ -1,0 +1,46 @@
+#homeview{
+    width:100%;
+    position: relative;
+    margin-bottom:.6rem;
+    -webkit-overflow-scrolling: touch;
+}
+#homeview nav{
+    margin-top: .45rem;
+}
+#homeview .product{
+    width:100%;
+    overflow: hidden;
+    position: relative;
+    padding:0 .15rem 0 .15rem;
+    margin-bottom:.4rem;
+}
+#homeview .product h3{
+    padding-bottom: .1rem;
+}
+#homeview .product .list_left{
+    width:.84rem;
+    height: 1.74rem;
+    background-image:url(../../static/images/shouye1.png);
+    background-size: cover;
+    float: left;
+
+}
+#homeview .product .list_right{
+    float: left;
+}
+#homeview .product .list_right ul li{
+     width:.82rem;
+     height: .82rem;
+     float: left;  
+     margin-left: .05rem;
+     background:rgba(204,153,153,0.2);
+     text-align:center;
+}
+#homeview .product .list_right .ul1{
+    width:100%;
+    margin-bottom:.1rem;
+    height: .82rem;
+}
+#homeview .iconfont{
+    font-size: .4rem;
+}

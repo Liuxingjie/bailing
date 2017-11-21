@@ -1,0 +1,31 @@
+#carserver{
+    font-size: .12rem;
+}
+#carserver .rigiste{
+    height: 1.2rem;
+}
+ #carserver .rigiste a{
+     line-height: 1.2rem;
+     color: black;
+ }
+ #carserver nav{
+    margin-top: .45rem;
+}
+#carserver nav ul li{
+    margin-bottom:.1rem;
+}
+#carserver .btnBox{
+    width:100%;
+
+}
+#carserver .btnBox button{
+    display: block;
+    width:52.33%;
+    border:1px solid #fe5932;
+    outline:none;
+    padding:.1rem;
+    font-size: .16rem;
+    background:#fff;
+    margin:.5rem auto;
+    border-radius:.1rem;
+}

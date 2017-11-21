@@ -1,0 +1,118 @@
+#communityProduct{
+    width:100%;
+    margin:0 0 1rem 0;
+    position:relative;
+}
+#communityProduct .smallimgBox,.neighbor,.introduce{
+    width:100%;
+    padding:.1rem;
+}
+#communityProduct .smallimgBox li img{
+    width:.4rem;
+    float: left;
+    margin-left:.05rem;
+    border-radius:.2rem;
+}
+#communityProduct .smallimgBox ul{
+    width:100%;
+    padding:.1rem;
+    overflow: hidden;
+} 
+#communityProduct .smallimgBox   button {
+    width:100%;
+    margin-top:.1rem;
+    background:#ffc0cb;
+    outline:none;
+    border:none;
+    padding:.03rem;
+}
+#communityProduct .neighbor img{
+     width:.5rem;
+     margin-left:.05rem;
+    padding-top: .1rem;
+    vertical-align: bottom;
+}
+#communityProduct .neighbor button{
+    float: right;   
+    height: .3rem;
+    margin-top: .2rem;
+    width:15%;
+    outline: none;
+    border:none;
+    background:#fff;
+    border:1px solid #fe5932;
+    color:#fe5932;
+    border-radius:.1rem;
+    letter-spacing: .03rem;
+}
+#communityProduct .neighbor span{
+    margin-left: .2rem;
+}
+#communityProduct .introduce h3, .introduce p,.introduce img{
+    padding-top: .05rem;
+}
+#communityProduct .foot{
+    width:100%;
+    overflow: hidden;
+    text-align:center;
+    height: .6rem;
+    position: fixed;
+    bottom:0;
+    z-index:2;
+    background:#fff;
+}
+#communityProduct .foot ul{
+    width:60%;
+    float: left;
+    height: .6rem;
+}
+#communityProduct .foot ul  li{
+    width:50%;
+    float: left;
+    padding-top: .1rem;
+}
+#communityProduct .foot button{
+    width:40%;
+    float: left;
+    outline:none;
+    background:#fe5932;
+    border:none;
+    height: .6rem;
+}
+.alertbox{
+    width:100%;
+    height: 100%;
+    position:fixed;
+    top: 0;
+    z-index: 1;
+    opacity: .9;
+}
+.alertbox form{
+    width:100%;
+    height: 100%;
+}
+.alertbox .detailsbox{
+    width:100%;
+    background:#fff;
+    height: 100%;
+    margin-top: 70%;
+    padding:.2rem;
+    position: relative;
+}
+.alertbox li span {
+   padding-top: .2rem;
+   width:30%;
+}
+.alertbox li span button{
+    width:30%;
+}
+.alertbox .select{
+    width:20%;
+    border:1px solid gray;
+    margin:0 6.4%;
+    text-align:center;
+    padding:.03rem;
+     margin-top: .1rem;
+    margin-bottom:.1rem;
+    border-radius:.1rem;
+}

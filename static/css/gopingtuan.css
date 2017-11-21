@@ -1,0 +1,73 @@
+#goshopping{
+    width:100%;
+    margin-bottom:.6rem; 
+}
+#goshopping .imgbox{
+    width:100%;
+    padding:.15rem;
+    margin-top: .45rem;
+}
+#goshopping .imgbox img{
+    width:30%;
+}
+#goshopping .imgbox  .contentbox{
+    width:70%;
+}
+#goshopping .imgbox  .btn{
+    width:70%;
+    outline:none;
+    display: block;
+    font-size: .16rem;
+    padding:.1rem;
+    border-radius: .1rem;
+    margin:.1rem auto .1rem auto;
+}
+#goshopping .alertBox .okbutton button{
+    width:100%;
+    position: absolute;
+    bottom: 0;  
+    left: 0;
+    outline:none;
+    padding:.1rem;
+}
+#goshopping .footbtn{
+    width:100%;
+    height: .5rem;
+    margin-top: .2rem;
+    position: fixed;
+    bottom:0;
+}
+#goshopping .footbtn button{
+    display:block;
+    width:50%;
+    border:1px solid #fd5a34;
+    line-height: .5rem;
+    float: left;
+    }
+#goshopping .alertBox{
+        padding-bottom:0;
+        padding-left: 0;
+        padding-right: 0;
+    }
+#goshopping .alertBox   .interloyer{
+     padding:.2rem;
+ }
+ #goshopping .alertBox h4{
+     text-align:left;
+     border-bottom:1px dashed gray;
+     padding:.1rem 0;
+ }  
+ #goshopping .alertBox  .interloyer p{
+     padding:.2rem 0;
+ } 
+ #goshopping .alertBox button{
+   width:.2rem; 
+}
+#goshopping .imgbox .smallimg{
+    width:.4rem;
+}
+#goshopping .iconfont{
+    display: inline-block;
+    /* font-size: .4rem; */
+    margin-top: -0.07rem;
+}

@@ -1,0 +1,40 @@
+#homeCommunity{
+    padding-top: .1rem;
+    width:100%;
+    position: relative;
+    margin-bottom: 1.1rem;
+  }
+  #homeCommunity .navbar3Box{
+    width:96%;
+    margin:0 2%;
+    overflow: auto;
+  }
+  #homeCommunity .wholeBox{
+    width:100%;
+    clear: both;
+    padding:.1rem;
+    overflow: hidden;
+    margin-top: .1rem;
+  }
+  #homeCommunity .wholeBox .smallimgbox {
+    display: block;
+    padding-top:.03rem;
+  }
+  #homeCommunity .wholeBox .bigimg{
+    width:30%;
+    float: left;
+  }
+  #homeCommunity .wholeBox .smallimg{
+    width:10%;
+  }
+  #homeCommunity .wholeBox  div{
+  float: left;
+  width:70%;
+  padding-left:.1rem;
+  }
+  #homeCommunity .iconfont{
+    font-size: .34rem;
+  }
+  #homeCommunity .icon-techan{
+    padding-left: .1rem;
+  }
